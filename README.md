@@ -1,5 +1,4 @@
 # Odin Recipes!
----
 
 This is a simple recipe website that I created to demonstrate my skills in HTML and CSS fundamentals. The site showcases various recipes and utilizes basic HTML structure and CSS styling.
 
@@ -36,7 +35,7 @@ In this project, I aimed to build a recipe website using only HTML and CSS. The 
 
 ## Screenshots
 
-_Insert screenshots or GIFs showcasing the home page and recipe pages here._
+<!-- _Insert screenshots or GIFs showcasing the home page and recipe pages here._ -->
 
 ## Acknowledgments
 
@@ -44,5 +43,5 @@ I would like to express my gratitude to the online resources and tutorials that 
 
 Feel free to explore the code and the website itself to see how I applied my HTML and CSS skills to create this basic recipe site. If you have any feedback or suggestions, please don't hesitate to reach out!
 
-Elijah Cravens
-Junior Web Developer
+_Elijah Cravens_
+_Junior Web Developer_
